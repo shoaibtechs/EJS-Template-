@@ -27,8 +27,6 @@ app.get("/", (req, res)=>{
 
 
 
-
-
 app.get("/insta/:username", (req, res)=>{
 
 
@@ -53,9 +51,5 @@ app.get("/insta/:username", (req, res)=>{
     }
   
     
-
-
-
-
 
 })
